@@ -1,28 +1,26 @@
 # Brightside Unique <img width="330px" src="images/brightside.svg"/>
 <sup>[💬 Join the conversation at decstack](http://tinyurl.com/decstack-projects-invite) channel: brightside</sup>
 
-Brightside is a decentralized service that allows applications to verify that their users are unique.
+Brightside Unique works with [Brightside](https://github.com/Brightside-Social/brightside)'s graph to provide a decentralized service to applications to verify that their users are unique.
 
-This is important to a variety of applications, including basic income, voting, reputation systems, and charities.
+Possible applications include basic income, voting, group decision-making, reputation systems, and charities.
 
 ## Components
-### Interaction Client
-The Brightside interaction client runs on mobile devices and registers face-to-face interactions. These interactions form the basis for establishing someone's uniqueness.
+### Brightside
+Brightside registers face-to-face interactions. These interactions form the basis for establishing someone's uniqueness.
 
-Individuals use the interaction client to grant third-party applications the right to verify their uniqueness.
+Brightside users grant third-party applications the right to verify their uniqueness.
 
-[Read more about the Interaction client in the wiki](https://github.com/adamstallard/brightside/wiki/Interaction-Client)
-### Interaction API
-Third-party applications interface with the Brightside interaction client running on the same device to retrieve a public key associated with the user.
-### Uniqueness Verification Service
-An application pushes a public key obtained through the interaction API to one or more Brightside nodes, which then perform a verification check and publish the result.
+[More details on Brightside Mobile are found in this wiki](https://github.com/Brightside-Social/brightside/wiki/Brightside-Mobile)
+
+### Included With Brightside Unique
+#### Mobile API
+Applications interface with Brightside Mobile on the same device to retrieve a public key associated with the user.
+#### Uniqueness API
+An application pushes a public key obtained through the interaction API to one or more [Brightside nodes](https://github.com/Brightside-Social/brightside-node), which then perform a verification check and publish the result.
 
 ## How it Works
-Brightside nodes store interactions, forming a social graph. By analyzing this graph, a node is able to determine whether or not a person can be verified as unique. When another application--such as a Basic Income application--wants to know whether a user is a unique individual in their system, they make a request to a Brightside node. Brightside nodes also protect systems against fake or duplicate accounts, known as _sybils_. Node operators may earn money for their services.
-
-## Read More
-* [Running a Node](node.md)
-* [Security](security.md)
+[Brightside nodes](https://github.com/Brightside-Social/brightside-node) store interactions, forming a social graph. By analyzing this graph, a node is able to determine whether or not a person can be verified as unique. When another application--such as a Basic Income application--wants to know whether a user is a unique individual in their system, they make a request to a Brightside node. Brightside nodes also protect systems against fake or duplicate accounts, known as _sybils_. Node operators may earn money for their services.
 
 ---
 ## Contribute
