@@ -24,6 +24,7 @@ Brightside nodes store interactions, forming a social graph. By analyzing this g
 * [Running a Node](node.md)
 * [Security](security.md)
 
+---
 ## Contribute
 
 Check out our [open projects](https://github.com/Brightside-Social/brightside/projects).  Or [start a new Issue](https://github.com/Brightside-Social/brightside/issues) and we'll add you to the conversation.
