@@ -1,7 +1,7 @@
 # Brightside Unique <img width="330px" src="images/brightside.svg"/>
 <sup>[💬 Join the conversation at decstack](http://tinyurl.com/decstack-projects-invite) channel: brightside</sup>
 
-Brightside Unique works with [Brightside](https://github.com/Brightside-Social/brightside)'s graph to provide a decentralized service to applications to verify that their users are unique.
+Brightside Unique works with [Brightside](https://github.com/Brightside-Social/brightside) to provide applications a way to verify that their users are unique.
 
 Possible applications include basic income, voting, group decision-making, reputation systems, and charities.
 
