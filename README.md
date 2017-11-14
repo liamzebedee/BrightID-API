@@ -23,7 +23,6 @@ Brightside nodes store interactions, forming a social graph. By analyzing this g
 ## Read More
 * [Running a Node](node.md)
 * [Security](security.md)
-* Consensus is mediated by [SCP (Stellar Consensus Protocol)](https://www.stellar.org/blog/stellar-consensus-protocol-proof-code/)
 
 ## Contribute
 
