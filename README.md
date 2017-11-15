@@ -6,7 +6,7 @@ Brightside Unique works with [Brightside](https://github.com/Brightside-Social/b
 This is important to basic income, voting, group decision-making, reputation systems, and charities.
 
 ## Components
-### Brightside
+### [Brightside Mobile](https://github.com/Brightside-Social/brightside)
 Brightside registers face-to-face interactions. These interactions form the basis for establishing someone's uniqueness.
 
 Brightside users grant third-party applications the right to verify their uniqueness.
