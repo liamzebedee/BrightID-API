@@ -25,7 +25,7 @@ An application pushes a public key obtained through the interaction API to one o
 ---
 ## Contribute
 
-Check out our [open projects](https://github.com/Brightside-Social/brightside/projects).  Or [start a new Issue](https://github.com/Brightside-Social/brightside/issues) and we'll add you to the conversation.
+Check out our [open projects](https://github.com/orgs/Brightside-Social/projects).  Or [start a new Issue](https://github.com/Brightside-Social/brightside/issues) and we'll add you to the conversation.
 
 This repo is for our unique user verification service.
 
