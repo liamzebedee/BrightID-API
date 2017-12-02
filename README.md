@@ -7,9 +7,9 @@ This is important to basic income, voting, group decision-making, reputation sys
 
 ## Components
 ### [Brightside Mobile](https://github.com/Brightside-Social/brightside)
-Brightside registers real-world interactions. These form the basis for establishing someone's uniqueness.
+Brightside mobile registers real-world interactions. These form the basis for establishing someone's uniqueness.
 
-Brightside users grant third-party applications the right to verify their uniqueness.
+Brightside mobile users grant third-party applications the right to verify their uniqueness.
 
 [More details on Brightside Mobile](https://github.com/Brightside-Social/brightside/wiki/Brightside-Mobile)
 
