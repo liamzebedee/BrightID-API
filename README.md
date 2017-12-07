@@ -1,5 +1,5 @@
 # Brightside Unique <img width="330px" src="images/brightside.svg"/>
-<sup>[💬 Join the conversation at decstack](http://tinyurl.com/decstack-projects-invite) channel: brightside</sup>
+<sup>[💬 Join the conversation at decstack](https://hub.decstack.com/signup_user_complete/?id=wutow3kb6bda5bhptir6aapyfh) channel: brightside</sup>
 
 Brightside Unique works with [Brightside](https://github.com/Brightside-Social/brightside) to provide a way for applications to verify that their users are unique.
 
@@ -40,4 +40,4 @@ Other repos
 
 ## Discuss
 
-We have an active community on [Decstack](http://decstack.com/)--Join the conversation at http://tinyurl.com/decstack-projects-invite, channel: https://hub.decstack.com/projects/channels/brightside.
+We have an active community on [Decstack](http://decstack.com/)--Join the conversation at [the Decstack projects team](https://hub.decstack.com/signup_user_complete/?id=wutow3kb6bda5bhptir6aapyfh), channel: https://hub.decstack.com/projects/channels/brightside.
