@@ -3,7 +3,7 @@
 
 Brightside Unique works with [Brightside](https://github.com/Brightside-Social/brightside) to provide a way for applications to verify that their users are unique.
 
-This is important to basic income, voting, group decision-making, reputation systems, and charities.
+This is important to universal basic income, voting, rating systems, referrals, and giveaways.
 
 ## Components
 ### [Brightside Mobile](https://github.com/Brightside-Social/brightside)
