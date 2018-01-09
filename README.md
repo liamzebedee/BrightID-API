@@ -29,7 +29,7 @@ Node operators may earn money for their services.
 ---
 ## Contribute
 
-Check out our [open projects](https://github.com/orgs/BrightID/projects).  Or [start a new Issue](https://github.com/BrightID/BrightID-Service/issues) and we'll add you to the conversation.
+Check out our [open projects](https://github.com/BrightID/BrightID-Service/projects).  Or [start a new Issue](https://github.com/BrightID/BrightID-Service/issues) and we'll add you to the conversation.
 
 This repo is for our unique user verification service.
 
