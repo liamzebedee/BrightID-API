@@ -1,5 +1,5 @@
 # BrightID Service <img width="330px" src="images/logo.svg"/>
-<sup>[💬 Join our active community at decstack](https://hub.decstack.com/signup_user_complete/?id=wutow3kb6bda5bhptir6aapyfh) channel: BrightID</sup>
+<sup>[💬 Join our active community on decstack](https://hub.decstack.com/signup_user_complete/?id=wutow3kb6bda5bhptir6aapyfh) channel: BrightID</sup>
 
 BrightID Service is an API that works with [BrightID](https://github.com/BrightID/BrightID) to provide a way for applications to verify that their users are unique.
 
