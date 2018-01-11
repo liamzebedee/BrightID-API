@@ -15,7 +15,7 @@ BrightID mobile users grant third-party applications the right to verify their u
 #### Mobile API
 Applications interface with BrightID Mobile on the same device to retrieve a public key associated with the user.
 #### Node API
-An application pushes a public key obtained through the interaction API to one or more [BrightID nodes](https://github.com/BrightID/BrightID-Node), which then perform a verification check and publish the result.
+An application pushes a public key obtained through the mobile API to one or more [BrightID nodes](https://github.com/BrightID/BrightID-Node), which then perform a verification check and publish the result.
 
 ## How it Works
 [BrightID nodes](https://github.com/BrightID/BrightID-Node) store interactions, forming a social graph. By analyzing this graph, a node is able to determine whether or not a person can be verified as unique. When another application wants to know whether a user is a unique individual in their system, they make a request to a BrightID node.
