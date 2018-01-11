@@ -17,7 +17,7 @@ Applications interface with BrightID Mobile on the same device to retrieve a pub
 An application pushes a public key obtained through the mobile API to one or more [BrightID nodes](https://github.com/BrightID/BrightID-Node), which then publishes the _trust score_ associated with the key.  The trust score represents a user's likelihood of being unique.
 
 ## How it Works
-[BrightID nodes](https://github.com/BrightID/BrightID-Node) store interactions, forming a social graph. By analyzing this graph, a node is able to determine whether or not a person can be verified as unique. When another application wants to know whether a user is a unique individual in their system, they make a request to a BrightID node.
+[BrightID nodes](https://github.com/BrightID/BrightID-Node) store interactions, forming a social graph. By analyzing this graph, a node is able to determine the likelihood of a person being unique, represented by a _trust score_. When another application wants to know whether a user is a unique individual in their system, they make a request to a BrightID node.
 
 BrightID nodes protect systems against fake or duplicate accounts, known as _sybils_.
 
