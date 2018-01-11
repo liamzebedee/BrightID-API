@@ -3,11 +3,9 @@
 
 BrightID Service is an API that works with [BrightID](https://github.com/BrightID/BrightID) to provide a way for applications to verify that their users are unique.
 
-This is important to universal basic income, voting, rating systems, referrals, and giveaways.
-
 ## Components
 ### [BrightID Mobile](https://github.com/BrightID/BrightID)
-BrightID mobile registers real-world interactions. These form the basis for establishing someone's uniqueness.
+BrightID mobile registers face-to-face connections. These form the basis for establishing someone's uniqueness.
 
 BrightID mobile users grant third-party applications the right to verify their uniqueness.
 
