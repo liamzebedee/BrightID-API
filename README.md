@@ -6,7 +6,7 @@ BrightID Service is an API that works with [BrightID](https://github.com/BrightI
 ## Components
 ### [BrightID Mobile](https://github.com/BrightID/BrightID)
 
-BrightID mobile users grant third-party applications the right to retrieve their _trust scores_ which represent their likelihood of being unique.
+BrightID mobile users grant third-party applications the right to retrieve their _trust scores_, which represent their likelihood of being unique.
 
 [More details on BrightID Mobile](https://github.com/BrightID/BrightID/wiki/BrightID-Mobile)
 
