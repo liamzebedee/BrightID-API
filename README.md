@@ -6,7 +6,7 @@ APIs allow applications to connect to [BrightID](https://github.com/BrightID/Bri
 ## Mobile API
 Applications interface with BrightID Mobile on the same device through the Mobile API to retrieve the public key associated with a user.
 
-[More details on BrightID Mobile](https://github.com/BrightID/BrightID/wiki/BrightID-Mobile)
+[More details on BrightID Mobile](https://github.com/BrightID/BrightID/wiki/BrightID---Full-Mobile-Spec)
 ## Node API
 [BrightID nodes](https://github.com/BrightID/BrightID-Node) return the _trust score_ associated with a public key obtained through the mobile API.  The trust score represents a user's likelihood of being unique.  The API connects automatically to several nodes to retrieve an accurate score by consensus.
 
@@ -20,7 +20,7 @@ BrightID nodes protect systems against fake or duplicate accounts, known as _syb
 
 Check out our [open projects](https://github.com/BrightID/BrightID-Service/projects).  Or [start a new Issue](https://github.com/BrightID/BrightID-Service/issues) and we'll add you to the conversation.
 
-This repo is for our unique user verification service.
+This repo is for our unique user verification service APIs.
 
 Other repos
 * [BrightID](https://github.com/BrightID/BrightID): Mobile app for connecting to other BrightID users
