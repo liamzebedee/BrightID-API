@@ -1,7 +1,7 @@
 # BrightID API <img width="330px" src="images/logo.svg"/>
 <sup>[💬 Join our active community on decstack](https://hub.decstack.com/signup_user_complete/?id=wutow3kb6bda5bhptir6aapyfh) channel: BrightID</sup>
 
-APIs allowing applications to connect to [BrightID](https://github.com/BrightID/BrightID) to verify that their users are unique.
+APIs allow applications to connect to [BrightID](https://github.com/BrightID/BrightID) to verify that their users are unique.
 
 ## Mobile API
 Applications interface with BrightID Mobile on the same device through the Mobile API to retrieve the public key associated with a user.
